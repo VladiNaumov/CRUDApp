@@ -1,10 +1,7 @@
 # CRUDApp
 
 
--Spring-Boot
--mySQL
--Thymeleaf
--Lombok
+-Spring-Boot, -mySQL, -Thymeleaf, -Lombok
 
 
 		
